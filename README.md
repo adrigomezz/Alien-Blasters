@@ -1,1 +1,1 @@
-Para inciar el juego el framework que estés utilizando (Preferiblemente Visual Studio Code) Abre la carpeta del juego y en el terminal de comandos ejecutalo con el comando Python Main.py
+El juego se ejecuta en un framework (preferiblemente Visual Studio Code). Para iniciarlo Abre el framework que estés utilizando, una vez dentro abre la carpeta del juego. Después abre el terminal de comandos del mismo framework ejecuta el siguiente comando: ptyhon Main.py para iniciar el juego.
